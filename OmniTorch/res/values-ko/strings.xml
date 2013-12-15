@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
+    <string name="flashDeviceLuminosity" />
+    <string name="app_name">손전등</string>
+    <string name="about_title">대하여</string>
+    <string name="about_close">닫기</string>
+    <string name="description">"이 프로그램은 카메라 LED를 조작합니다.
+"</string>
+    <string name="warning">"경고: 장시간의 LED르 사용하면 과열될 수 있습니다.\n전체 밝기의 ½로 "항상 켜짐" 실행 테스트 되었습니다 하지만 LED가 손상될 수 있는 위험이 있습니다.
+"</string>
+    <string name="license">"Ben Buxton의 넥서스원 손전등 원본 코드를 GPL로 배포, V3.
+ http://n1torch.googlecode.com/ \nMax Weninger이 OmniRom용 으로 수정함"</string>
+    <string name="warning_label">경고</string>
+    <string name="brightwarn">"전체 밝기의 ½로 작동 시간 테스트를 성공하였지만, 매우 뜨겁고, 45분에 (일시적으로) 깜박임이 시작되었습니다. 장기적인 영향은 알려져 있지 않습니다.\n위험을 감수하고 사용하려는 경우 "동의"를 클릭합니다."</string>
+    <string name="brightwarn_negative">거부</string>
+    <string name="brightwarn_accept">동의</string>
+    <string name="label_on">켬</string>
+    <string name="label_off">끔</string>
+    <string name="label_high">높음</string>
+    <string name="label_strobe">스트로브</string>
+    <string name="label_sos">S.O.S</string>
+    <string name="settings">설정</string>
+    <string name="about">정보</string>
+    <string name="widget_options">위젯 옵션</string>
+    <string name="setting_title_common">공통</string>
+    <string name="setting_restart">애플리케이션을 다시 시작하십시오</string>
+    <string name="setting_fullscreen">전체화면</string>
+    <string name="setting_bright">브라이트</string>
+    <string name="setting_sos">S.O.S</string>
+    <string name="setting_strobe">스트로브 플래시</string>
+    <string name="setting_frequency_title">스트로브 주파수</string>
+    <string name="setting_frequency_dialog">주파수</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">위젯 추가</string>
+    <string name="not_torch_title">손전등 켬</string>
+    <string name="not_torch_toggle">손전등 끔</string>
+</resources>
